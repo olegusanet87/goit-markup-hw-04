@@ -364,7 +364,15 @@ img {
 	border-left: 1px solid #E7E9FC;
 	overflow: hidden;
 
+}
 
+.product-content {
+	margin-top: 32px;
+	margin-bottom: 32px;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-bottom: 8px;
+	
 }
 
 .product-title {
@@ -374,7 +382,6 @@ img {
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 	margin-bottom: 8px;
-
 }
 
 .product-list {
@@ -385,7 +392,6 @@ img {
 
 .product-list:hover {
 	box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-
 }
 
 .product-list:hover .overlay-desc,
@@ -446,7 +452,6 @@ img {
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 	margin-bottom: 16px;
-
 }
 
 .social-media {
@@ -481,7 +486,6 @@ img {
 	border-radius: 50%;
 	background-color: #4D5AE5;
 	transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
 }
 
 .footer-icon {}
