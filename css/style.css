@@ -357,11 +357,6 @@ img {
 
 .product-container {
 	position: relative;
-	padding: 32px 16px;
-	text-align: left;
-	border-bottom: 1px solid #E7E9FC;
-	border-right: 1px solid #E7E9FC;
-	border-left: 1px solid #E7E9FC;
 	overflow: hidden;
 
 }
@@ -372,7 +367,7 @@ img {
 	padding-left: 16px;
 	padding-right: 16px;
 	padding-bottom: 8px;
-	
+
 }
 
 .product-title {
