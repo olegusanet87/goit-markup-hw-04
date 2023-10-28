@@ -364,6 +364,7 @@ img {
 	border-left: 1px solid #E7E9FC;
 	overflow: hidden;
 
+
 }
 
 .product-title {
@@ -388,9 +389,11 @@ img {
 }
 
 
+
 .overlay-desc {
 	position: absolute;
 	top: 0;
+	left: 0;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
